@@ -1,16 +1,12 @@
-# chat_app
+# ChatApp
 
-A new Flutter project.
+Welcome to **ChatApp**! This application is designed to facilitate real-time communication between users, handling user login and logout, and providing a demo chat interface for interaction. User credentials are securely stored and managed to ensure safe access and usage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **User Registration**: New users can create an account by registering with a unique username and password.
+- **User Login/Logout**: Users can securely log in to their account using their credentials and log out when done.
+- **Real-Time Messaging**: Users can engage in real-time chat with other users within the app.
+- **Secure Storage**: User credentials and session data are securely stored.
+- **Demo Chat**: A simple chat interface to demonstrate the messaging capabilities between users.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
